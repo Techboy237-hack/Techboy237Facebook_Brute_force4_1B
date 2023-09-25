@@ -70,19 +70,15 @@ $ python techboy237Fbhack-pro.py
 
 <br>
 
-#### MY SOCIAL MEDIA
-
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/techboy237cm)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://web.facebook.com/techboy237)
-[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https:https://www.instagram.com/techboy237.cm) 
-
-
-
-#### THANKS FOR USING MY SCRIPT
-
 #### [~] SINGLE COMMAND
 
 ```python
 termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/fowahcreation/techboy237fbBruteforce-4.2.git ; cd techboy237fbBruteforce-4.2 ; python techboy237fbhack_api.py
 ```
+
+#### MY SOCIAL MEDIA
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/techboy237cm)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://web.facebook.com/techboy237)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https:https://www.instagram.com/techboy237.cm) 
 
