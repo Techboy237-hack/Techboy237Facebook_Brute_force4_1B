@@ -57,12 +57,12 @@ $ pip install certifi
 $ pip install mechanize
 $ pip install requests bs4
 $ apt install git
-git clone https://github.com/fowahcreation/techboy237Fbhack-pro.git
+git clone https://github.com/Techboy237-hack/Techboy237Facebook_Brute_force4_1B.git
 ```
 #### RUN SCRIPT
 ```python
-$ $ cd techboy237Fbhack-pro
-$ python techboy237Fbhack-pro.py
+$ $ cd Techboy237Facebook-Brute-force4.1B
+$ python techboy237facebook-brute-force4.1b.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
