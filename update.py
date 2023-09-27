@@ -7,7 +7,7 @@ if __name__ == "__main__":
     try:
         subprocess.run(["git", "pull"])
         
-        module_name = "Techboy237Facebook_Brute_force4_1B"
+        module_name = "techboy237facebook_brute_force4_1b_Enc"
         module = importlib.import_module(module_name)
         
         # Check if the function 'azimvau' exists in the imported module before calling it
