@@ -1,5 +1,11 @@
+import subprocess
+
 if __name__ == "__main__":
-    os.system("git pull")
-    module_name = "techboy237fbhackpro"
-    module = __import__(module_name)
-    module.azimvau()
+    # Use try-except to catch any errors during the script execution
+    try:
+        # Execute the "git pull" command
+        subprocess.run(["git", "pull"])
+    except Exception as e:
+        # Handle exceptions here (e.g., print an error message)
+        print(f"An error occurred: {e}")
+
