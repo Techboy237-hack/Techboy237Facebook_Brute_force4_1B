@@ -1,7 +1,21 @@
 import os
 
 if __name__ == "__main__":
-    os.system("git pull")
-    module_name = "Techboy237Facebook_Brute_force4_1B"
-    module = __import__(module_name)
-    module.azimvau()
+    # Use try-except to catch any errors during the script execution
+    try:
+        # Use subprocess.run instead of os.system for better control and safety
+        import subprocess
+        subprocess.run(["git", "pull"])
+        
+        # Use importlib.import_module to import the module dynamically
+        import importlib
+        module_name = "Techboy237Facebook_Brute_force4_1B"
+        module = importlib.import_module(module_name)
+        
+        # Check if the function 'azimvau' exists in the imported module before calling it
+        if hasattr(module, 'azimvau') and callable(module.azimvau):
+            module.azimvau()
+        else:
+            print(f"Function 'azimvau' not found in module '{module_name}'")
+    except Exception as e:
+        print(f"An error occurred: {e}")
