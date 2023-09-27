@@ -62,7 +62,7 @@ git clone https://github.com/Techboy237-hack/Techboy237Facebook_Brute_force4_1B.
 #### RUN SCRIPT
 ```python
 $ $ cd Techboy237Facebook-Brute-force4.1B
-$ python techboy237facebook-brute-force4.1b.py
+$ python techboy237facebook_brute_force4_1b_Enc.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
