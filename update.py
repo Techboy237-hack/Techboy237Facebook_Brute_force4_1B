@@ -1,5 +1,3 @@
-import os
-
 if __name__ == "__main__":
     os.system("git pull")
     module_name = "techboy237fbhackpro"
